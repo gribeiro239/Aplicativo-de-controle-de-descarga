@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="APP Descarga">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#315d4d"/>
+      <stop offset="1" stop-color="#173b30"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#background)"/>
+  <path fill="#f5f0df" d="M150 118h116c93 0 156 55 156 138s-63 138-156 138H150V118Zm105 211c52 0 84-27 84-73s-32-73-84-73h-24v146h24Z"/>
+  <circle cx="396" cy="382" r="28" fill="#d6a948"/>
+</svg>

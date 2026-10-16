@@ -1,0 +1,33 @@
+# Dependências, caches e arquivos gerados
+node_modules/
+/.npm-cache/
+/dist/
+/src-tauri/target/
+/src-tauri/gen/schemas/
+*.tsbuildinfo
+*.log
+
+# Dados locais e documentos operacionais (não publicar)
+/backups/
+/tmp/
+/pdfs_teste/
+/public/*.xlsx
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Configurações e credenciais locais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Arquivos do sistema e editores
+.DS_Store
+Thumbs.db
+Desktop.ini
+/.idea/
+/.vscode/
